@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication4.Site1" %>
+
+<!DOCTYPE html>
+<link href="StyleSheet1.css" rel="stylesheet" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>GARAGE MUSİC</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-decoration: none;
+        }
+    </style>
+    </head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="baslik">
+
+         </div>
+
+        <div class="menu">
+
+             <div class="menu1" style="font-weight: bold">
+
+                 <asp:HyperLink ID="HyperLink3" runat="server" ForeColor="White" CssClass="auto-style1" NavigateUrl="~/girisyap.aspx">GIRIS YAP</asp:HyperLink>
+
+        </div>
+             <div class="menu2" style="font-weight: bold">
+
+                 <asp:HyperLink ID="HyperLink2" runat="server" ForeColor="White" CssClass="auto-style1" NavigateUrl="~/hakkimizda.aspx">HAKKIMIZDA</asp:HyperLink>
+
+        </div>
+             <div class="menu3" style="font-weight: bold">
+
+                 <asp:HyperLink ID="HyperLink1" runat="server" ForeColor="White" CssClass="auto-style1" NavigateUrl="~/anasayfa.aspx">ANASAYFA</asp:HyperLink>
+
+        </div>
+             <div class="menu4" style="font-weight: bold">
+
+                 <asp:HyperLink ID="HyperLink4" runat="server" ForeColor="White" CssClass="auto-style1" NavigateUrl="~/iletisim.aspx">ILETISIM</asp:HyperLink>
+
+        </div>
+             <div class="menu5" style="font-weight: bold">
+
+                 <asp:HyperLink ID="HyperLink5" runat="server" ForeColor="White" CssClass="auto-style1" NavigateUrl="~/kayitol.aspx">KAYIT OL</asp:HyperLink>
+
+        </div>
+
+        </div>
+
+       
+            
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+
+        
+
+        <footer>
+            Tüm hakları Kenan Yasin Sarıgül'e aittir !!! (2018)
+        </footer>
+
+       
+            
+
+        
+
+    </form>
+</body>
+</html>

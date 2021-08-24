@@ -1,0 +1,645 @@
+﻿body {
+    position: center;
+    background-color: #000000;
+}
+
+.{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.baslik {
+        width: 1500px;
+        height: 380px;
+        margin: 0 auto;
+        position: center;
+        background-image: url('resimler/Resim1.png');
+        background-position: center;
+    }
+
+.menu{
+    width: 1500px;
+    position: center;
+    margin: 0 auto;
+}
+
+.menu1{
+    width: 300px;
+    height: 10px;
+    margin: 0 auto;
+    background-color: #bf390e;
+    text-align: right;
+    line-height: 60px;
+    font-family: Chiller;
+    font-size: 30px;
+    float: left;
+
+}
+
+
+.menu2{
+    width: 300px;
+    height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 60px;
+    font-family: Chiller;
+    font-size: 30px;
+    background-color: #bf390e;
+    float: left;
+}
+
+.menu3{
+    width: 300px;
+    height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 40px;
+    font-family: Chiller;
+    font-size: 70px;
+    background-color: #bf390e;
+    float: left;
+}
+
+.menu4{
+    width: 300px;
+    height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 60px;
+    font-family: Chiller;
+    font-size: 30px;
+    background-color: #bf390e;
+    float: left;
+}
+
+.menu5{
+    width: 300px;
+    height: 10px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 60px;
+    font-family: Chiller;
+    font-size: 30px;
+    background-color: #bf390e;
+    float: left;
+}
+
+footer{
+    width: 1280px;
+    height: 25px;
+    margin: 0 auto;
+    position: center;
+    margin-top: 10px;
+    font-family: 'Century Gothic';
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    color: #ffffff; 
+}
+
+.ana{
+    width: 1280px;
+    height: 1520px;
+    margin: 0 auto;
+    position: center;
+    margin-top: 75px;
+}
+
+.icerik {
+    width: 1280px;
+    height: 476px;
+    position: center;
+    margin: 0 auto;  
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+    border-bottom: solid #bf390e 5px;
+}
+
+.sanatcilar {
+    width: 600px;
+    margin-top: 50px;
+    height: 376px;
+    float: left;
+    background-image: url('resimler/saydam.png');
+    background-image: url('resimler/5.jpg');
+    background-position-x: 1180px;
+    background-position-y: 1900px;
+    border-right: solid #bf390e 20px;
+}
+
+.sanatcilar2 {
+    width: 600px;
+    height: 376px;
+    margin-top: 50px;
+    float: right;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-left: solid #bf390e 20px;
+}
+
+.sanbas{
+    width: 590px;
+    height: 50px;
+    font-family: Chiller;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+    line-height: 50px;
+}
+
+.sanbil {
+    width: 590px;
+    height: 206px;
+    font-family: Chiller;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.sanlink{
+    width: 590px;
+    height: 40px;
+    font-family: Chiller;
+    font-size: 35px;
+    margin-left: 10px;
+    margin-top: 20px;
+    line-height: 40px;
+}
+
+.icerik2 {
+    width: 1280px;
+    height: 476px;
+    position: center;
+    margin: 0 auto;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+    border-bottom: solid #bf390e 5px;
+    border-top: solid #bf390e 5px;
+}
+
+.enstruman {
+    width: 600px;
+    margin-top: 50px;
+    height: 376px;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-right: solid #bf390e 20px;
+}
+
+.ensbas{
+    width: 590px;
+    height: 50px;
+    font-family: Chiller;
+    font-size: 45px;
+    margin-right: 10px;
+    margin-top: 20px;
+    line-height: 50px;
+    text-align: right;
+}
+
+.ensbil{
+    width: 560px;
+    height: 206px;
+    font-family: Chiller;
+    font-size: 45px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    text-align: right;
+}
+
+.enslink{
+    width: 590px;
+    height: 40px;
+    font-family: Chiller;
+    font-size: 35px;
+    margin-right: 10px;
+    margin-top: 20px;
+    line-height: 40px;
+    text-align: right;
+}
+
+.enstruman2 {
+    width: 600px;
+    height: 376px;
+    margin-top: 50px;
+    float: right;
+    background-image: url('resimler/saydam.png');
+    border-left: solid #bf390e 20px;
+    background-image: url('resimler/f3b87283557052cf9eaa2a01a4259357-1000.jpg');
+    background-position: center;
+}
+
+.icerik3{
+    width: 1280px;
+    height: 476px;
+    position: center;
+    margin: 0 auto;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+    border-top: solid #bf390e 5px;
+}
+
+.akor {
+    width: 600px;
+    margin-top: 50px;
+    height: 376px;
+    float: left;
+    background-image: url('resimler/saydam.png');
+    background-image: url('resimler/nota-wallpaper3.jpg');
+    background-position: center;
+    border-right: solid #bf390e 20px;
+}
+
+.akor2{
+    width: 600px;
+    height: 376px;
+    margin-top: 50px;
+    float: right;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-left: solid #bf390e 20px;
+}
+
+.akorbas{
+    width: 590px;
+    height: 50px;
+    font-family: Chiller;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+    line-height: 50px;
+}
+
+.akorbil{
+    width: 590px;
+    height: 206px;
+    font-family: Chiller;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.akorlink{
+    width: 590px;
+    height: 40px;
+    font-family: Chiller;
+    font-size: 35px;
+    margin-left: 10px;
+    margin-top: 20px;
+    line-height: 40px;
+}
+
+
+.bos {
+    width: 1280px;
+    height: 35px;
+    margin-top: 0 auto;
+    position: center;
+    background-position: center;
+}
+
+.gir1{
+    position: center;
+    margin: 0 auto;
+    width: 605px;
+    height: 280px;
+}
+
+.girtab{
+    position: center;
+    margin: 0 auto;
+    width: 890px;
+    height: 310px;
+    padding: 95px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.gir {
+    width: 1180px;
+    height: 500px;
+    position: center;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 50px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.kayit1{
+    position: center;
+    margin: 0 auto;
+    width: 605px;
+    height: 500px;
+}
+
+.kayittab{
+    position: center;
+    margin: 0 auto;
+    width: 990px;
+    height: 510px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.kayit {
+    width: 1210px;
+    height: 530px;
+    position: center;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 35px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.hakkimiz{
+    width: 1180px;
+    height: 500px;
+    position: center;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 50px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.hakkimiz1{
+    position: center;
+    margin: 0 auto;
+    width: 1180px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    font-family: Chiller;
+    font-size: 63px;
+    text-align: center;
+}
+
+.iletisim{
+    width: 1180px;
+    height: 500px;
+    position: center;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 50px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.iletisim1{
+    position: center;
+    margin: 0 auto;
+    width: 1180px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    font-family: Chiller;
+    font-size: 50px;
+    text-align: left;
+}
+
+.ana1{
+    width: 1280px;
+    height: 600px;
+    margin: 0 auto;
+    position: center;
+    margin-top: 75px;
+}
+
+.banner {
+    width: 1240px;
+    height: 560px;
+    position: center;
+    margin: 0 auto;
+    padding: 20px;  
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.banyaz{
+    width: 1240px;
+    height: 560px;
+    position: center;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    font-family: Chiller;
+    font-size: 48px;
+}
+
+.krc{
+    width: 1280px;
+    height: 1500px;
+    margin: 0 auto;
+    position: center;
+    margin-top: 75px;
+}
+
+.krc1{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    padding: 20px;  
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.krcana{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.krcsld{
+    width: 1240px;
+    height: 500px;
+    text-align: center;
+}
+
+.krcyaz{
+    width: 1240px;
+    height: 700px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Century Gothic';
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.krcsarki{
+    width: 1240px;
+    height: 230px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.gtr{
+    width: 1280px;
+    height: 1500px;
+    margin: 0 auto;
+    position: center;
+    margin-top: 75px;
+}
+
+.gtr1{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    padding: 20px;  
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.gtrana{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.gtrsld{
+    width: 1240px;
+    height: 500px;
+    text-align: center;
+}
+
+.gtryaz{
+    width: 1240px;
+    height: 700px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Century Gothic';
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.gtrbil{
+    width: 1240px;
+    height: 230px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.akay1{
+    position: center;
+    margin: 0 auto;
+    width: 605px;
+    height: 500px;
+}
+
+.akaytab{
+    position: center;
+    margin: 0 auto;
+    width: 990px;
+    height: 510px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.akay {
+    width: 1210px;
+    height: 530px;
+    position: center;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 35px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.abil{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    padding: 20px;  
+    margin-top: 75px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.abilana{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.admin{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    padding: 20px;  
+    margin-top: 75px;
+    background-image: url('resimler/pexels-photo-62461.jpeg');
+    background-position-x: -780px;
+    background-position-y: top;
+}
+
+.adminana{
+    width: 1240px;
+    height: 1460px;
+    position: center;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.notalar{
+    width: 780px;
+    height: 980px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #ffffff;
+    float: left;
+    font-family: 'Comic Sans MS';
+    font-size: 18px;
+    padding: 10px;
+}
+
+.pics{
+    width: 410px;
+    height: 1000px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: right;
+}
+
+
+
+
+
+
+
+

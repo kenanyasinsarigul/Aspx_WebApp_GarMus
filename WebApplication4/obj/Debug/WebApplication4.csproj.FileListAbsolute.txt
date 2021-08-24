@@ -1,0 +1,138 @@
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\SARIGÜL\Documents\Visual Studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\Bütün Dosyalar\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+E:\Karabük Üniversitesi\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\KENAN\KARABÜK ÜNİVERSİTESİ\Visual Stuido Proje Yedek\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
