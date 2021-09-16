@@ -16,7 +16,7 @@
   </p>
 </p>
 
-GARMUS (GARAGE MUSIC) : This project was created for the Web Designing Lesson in Karabük University Mechatronic Engineering in 2018
+(GARAGE MUSIC) : This project was created for the Web Designing Lesson in Karabük University Mechatronic Engineering in 2018
 
 ## Author
 Kenan Yasin SARIGÜL- <a href="https://github.com/kenanyasinsarigul/">Github</a>
