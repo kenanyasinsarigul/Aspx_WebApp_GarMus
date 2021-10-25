@@ -18,6 +18,12 @@
 
 (GARAGE MUSIC) : This project was created for the Web Designing Lesson in Karabük University Mechatronic Engineering in 2018
 
+![Resim1](https://user-images.githubusercontent.com/51781007/138712478-c28b40cc-7565-4f18-9106-32ab268024ee.png)
+![Resim2](https://user-images.githubusercontent.com/51781007/138712482-e45e9709-ce7a-4a29-9d82-152a79e04e33.png)
+![Resim3](https://user-images.githubusercontent.com/51781007/138712488-9faaac03-19f9-4020-aa6e-2b6eb9b5833b.png)
+![Resim4](https://user-images.githubusercontent.com/51781007/138712494-b4ab9162-8b50-4a95-b34c-ea59b80a7318.png)
+![Resim5](https://user-images.githubusercontent.com/51781007/138712502-c1306c28-0376-4282-8356-bdd9d63181f9.png)
+
 ## Author
 Kenan Yasin SARIGÜL- <a href="https://github.com/kenanyasinsarigul/">Github</a>
 
